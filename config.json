@@ -49,378 +49,306 @@
       "placeholder_path": "./photos/Misc/eric-qiu-gallery-47.placeholder.jpg"
     }
   ],
-  "London 2023": [
-    {
-      "width": 3134,
-      "height": 4701,
-      "path": "./photos/London 2023/eric-qiu-gallery-29.jpg",
-      "compressed_path": "./photos/London 2023/eric-qiu-gallery-29.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/London 2023/eric-qiu-gallery-29.placeholder.jpg"
-    },
-    {
-      "width": 3020,
-      "height": 4027,
-      "path": "./photos/London 2023/eric-qiu-gallery-28.jpg",
-      "compressed_path": "./photos/London 2023/eric-qiu-gallery-28.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/London 2023/eric-qiu-gallery-28.placeholder.jpg"
-    },
-    {
-      "width": 2932,
-      "height": 3910,
-      "path": "./photos/London 2023/eric-qiu-gallery-27.jpg",
-      "compressed_path": "./photos/London 2023/eric-qiu-gallery-27.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/London 2023/eric-qiu-gallery-27.placeholder.jpg"
-    },
-    {
-      "width": 3007,
-      "height": 4008,
-      "path": "./photos/London 2023/eric-qiu-gallery-31.jpg",
-      "compressed_path": "./photos/London 2023/eric-qiu-gallery-31.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/London 2023/eric-qiu-gallery-31.placeholder.jpg"
-    },
-    {
-      "width": 3218,
-      "height": 4827,
-      "path": "./photos/London 2023/eric-qiu-gallery-30.jpg",
-      "compressed_path": "./photos/London 2023/eric-qiu-gallery-30.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/London 2023/eric-qiu-gallery-30.placeholder.jpg"
-    }
-  ],
-  "Iceland 2023": [
-    {
-      "width": 3173,
-      "height": 4760,
-      "path": "./photos/Iceland 2023/eric-qiu-gallery-38.jpg",
-      "compressed_path": "./photos/Iceland 2023/eric-qiu-gallery-38.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Iceland 2023/eric-qiu-gallery-38.placeholder.jpg"
-    },
-    {
-      "width": 4000,
-      "height": 6000,
-      "path": "./photos/Iceland 2023/eric-qiu-gallery-39.jpg",
-      "compressed_path": "./photos/Iceland 2023/eric-qiu-gallery-39.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Iceland 2023/eric-qiu-gallery-39.placeholder.jpg"
-    },
-    {
-      "width": 4000,
-      "height": 6000,
-      "path": "./photos/Iceland 2023/eric-qiu-gallery-43.jpg",
-      "compressed_path": "./photos/Iceland 2023/eric-qiu-gallery-43.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Iceland 2023/eric-qiu-gallery-43.placeholder.jpg"
-    },
-    {
-      "width": 6000,
-      "height": 4000,
-      "path": "./photos/Iceland 2023/eric-qiu-gallery-42.jpg",
-      "compressed_path": "./photos/Iceland 2023/eric-qiu-gallery-42.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Iceland 2023/eric-qiu-gallery-42.placeholder.jpg"
-    },
-    {
-      "width": 6000,
-      "height": 4000,
-      "path": "./photos/Iceland 2023/eric-qiu-gallery-40.jpg",
-      "compressed_path": "./photos/Iceland 2023/eric-qiu-gallery-40.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Iceland 2023/eric-qiu-gallery-40.placeholder.jpg"
-    },
-    {
-      "width": 3672,
-      "height": 5508,
-      "path": "./photos/Iceland 2023/eric-qiu-gallery-41.jpg",
-      "compressed_path": "./photos/Iceland 2023/eric-qiu-gallery-41.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Iceland 2023/eric-qiu-gallery-41.placeholder.jpg"
-    },
-    {
-      "width": 3086,
-      "height": 4629,
-      "path": "./photos/Iceland 2023/eric-qiu-gallery-45.jpg",
-      "compressed_path": "./photos/Iceland 2023/eric-qiu-gallery-45.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Iceland 2023/eric-qiu-gallery-45.placeholder.jpg"
-    },
-    {
-      "width": 6000,
-      "height": 4000,
-      "path": "./photos/Iceland 2023/eric-qiu-gallery-44.jpg",
-      "compressed_path": "./photos/Iceland 2023/eric-qiu-gallery-44.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Iceland 2023/eric-qiu-gallery-44.placeholder.jpg"
-    },
-    {
-      "width": 4000,
-      "height": 3091,
-      "path": "./photos/Iceland 2023/eric-qiu-gallery-46.jpg",
-      "compressed_path": "./photos/Iceland 2023/eric-qiu-gallery-46.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Iceland 2023/eric-qiu-gallery-46.placeholder.jpg"
-    },
-    {
-      "width": 4241,
-      "height": 5655,
-      "path": "./photos/Iceland 2023/eric-qiu-gallery-34.jpg",
-      "compressed_path": "./photos/Iceland 2023/eric-qiu-gallery-34.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Iceland 2023/eric-qiu-gallery-34.placeholder.jpg"
-    },
+  "Spain": [
     {
       "width": 3024,
       "height": 4032,
-      "path": "./photos/Iceland 2023/eric-qiu-gallery-35.jpg",
-      "compressed_path": "./photos/Iceland 2023/eric-qiu-gallery-35.min.jpg",
+      "path": "./photos/Spain/eric-qiu-gallery-01.jpg",
+      "compressed_path": "./photos/Spain/eric-qiu-gallery-01.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Iceland 2023/eric-qiu-gallery-35.placeholder.jpg"
-    },
-    {
-      "width": 5931,
-      "height": 8897,
-      "path": "./photos/Iceland 2023/eric-qiu-gallery-37.jpg",
-      "compressed_path": "./photos/Iceland 2023/eric-qiu-gallery-37.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Iceland 2023/eric-qiu-gallery-37.placeholder.jpg"
-    },
-    {
-      "width": 2709,
-      "height": 2032,
-      "path": "./photos/Iceland 2023/eric-qiu-gallery-36.jpg",
-      "compressed_path": "./photos/Iceland 2023/eric-qiu-gallery-36.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Iceland 2023/eric-qiu-gallery-36.placeholder.jpg"
-    },
-    {
-      "width": 3262,
-      "height": 4893,
-      "path": "./photos/Iceland 2023/eric-qiu-gallery-32.jpg",
-      "compressed_path": "./photos/Iceland 2023/eric-qiu-gallery-32.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Iceland 2023/eric-qiu-gallery-32.placeholder.jpg"
-    },
-    {
-      "width": 3969,
-      "height": 2646,
-      "path": "./photos/Iceland 2023/eric-qiu-gallery-33.jpg",
-      "compressed_path": "./photos/Iceland 2023/eric-qiu-gallery-33.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Iceland 2023/eric-qiu-gallery-33.placeholder.jpg"
-    }
-  ],
-  "Spain 2023": [
-    {
-      "width": 3024,
-      "height": 4032,
-      "path": "./photos/Spain 2023/eric-qiu-gallery-01.jpg",
-      "compressed_path": "./photos/Spain 2023/eric-qiu-gallery-01.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Spain 2023/eric-qiu-gallery-01.placeholder.jpg"
+      "placeholder_path": "./photos/Spain/eric-qiu-gallery-01.placeholder.jpg"
     },
     {
       "width": 4983,
       "height": 7474,
-      "path": "./photos/Spain 2023/eric-qiu-gallery-15.jpg",
-      "compressed_path": "./photos/Spain 2023/eric-qiu-gallery-15.min.jpg",
+      "path": "./photos/Spain/eric-qiu-gallery-15.jpg",
+      "compressed_path": "./photos/Spain/eric-qiu-gallery-15.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Spain 2023/eric-qiu-gallery-15.placeholder.jpg"
+      "placeholder_path": "./photos/Spain/eric-qiu-gallery-15.placeholder.jpg"
     },
     {
       "width": 6000,
       "height": 4000,
-      "path": "./photos/Spain 2023/eric-qiu-gallery-14.jpg",
-      "compressed_path": "./photos/Spain 2023/eric-qiu-gallery-14.min.jpg",
+      "path": "./photos/Spain/eric-qiu-gallery-14.jpg",
+      "compressed_path": "./photos/Spain/eric-qiu-gallery-14.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Spain 2023/eric-qiu-gallery-14.placeholder.jpg"
+      "placeholder_path": "./photos/Spain/eric-qiu-gallery-14.placeholder.jpg"
     },
     {
       "width": 3767,
       "height": 5651,
-      "path": "./photos/Spain 2023/eric-qiu-gallery-16.jpg",
-      "compressed_path": "./photos/Spain 2023/eric-qiu-gallery-16.min.jpg",
+      "path": "./photos/Spain/eric-qiu-gallery-16.jpg",
+      "compressed_path": "./photos/Spain/eric-qiu-gallery-16.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Spain 2023/eric-qiu-gallery-16.placeholder.jpg"
+      "placeholder_path": "./photos/Spain/eric-qiu-gallery-16.placeholder.jpg"
     },
     {
       "width": 6035,
       "height": 8047,
-      "path": "./photos/Spain 2023/eric-qiu-gallery-02.jpg",
-      "compressed_path": "./photos/Spain 2023/eric-qiu-gallery-02.min.jpg",
+      "path": "./photos/Spain/eric-qiu-gallery-02.jpg",
+      "compressed_path": "./photos/Spain/eric-qiu-gallery-02.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Spain 2023/eric-qiu-gallery-02.placeholder.jpg"
+      "placeholder_path": "./photos/Spain/eric-qiu-gallery-02.placeholder.jpg"
     },
     {
       "width": 7414,
       "height": 5561,
-      "path": "./photos/Spain 2023/eric-qiu-gallery-03.jpg",
-      "compressed_path": "./photos/Spain 2023/eric-qiu-gallery-03.min.jpg",
+      "path": "./photos/Spain/eric-qiu-gallery-03.jpg",
+      "compressed_path": "./photos/Spain/eric-qiu-gallery-03.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Spain 2023/eric-qiu-gallery-03.placeholder.jpg"
+      "placeholder_path": "./photos/Spain/eric-qiu-gallery-03.placeholder.jpg"
     },
     {
       "width": 3642,
       "height": 5463,
-      "path": "./photos/Spain 2023/eric-qiu-gallery-17.jpg",
-      "compressed_path": "./photos/Spain 2023/eric-qiu-gallery-17.min.jpg",
+      "path": "./photos/Spain/eric-qiu-gallery-17.jpg",
+      "compressed_path": "./photos/Spain/eric-qiu-gallery-17.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Spain 2023/eric-qiu-gallery-17.placeholder.jpg"
+      "placeholder_path": "./photos/Spain/eric-qiu-gallery-17.placeholder.jpg"
     },
     {
       "width": 3791,
       "height": 5686,
-      "path": "./photos/Spain 2023/eric-qiu-gallery-13.jpg",
-      "compressed_path": "./photos/Spain 2023/eric-qiu-gallery-13.min.jpg",
+      "path": "./photos/Spain/eric-qiu-gallery-13.jpg",
+      "compressed_path": "./photos/Spain/eric-qiu-gallery-13.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Spain 2023/eric-qiu-gallery-13.placeholder.jpg"
+      "placeholder_path": "./photos/Spain/eric-qiu-gallery-13.placeholder.jpg"
     },
     {
       "width": 6000,
       "height": 4000,
-      "path": "./photos/Spain 2023/eric-qiu-gallery-07.jpg",
-      "compressed_path": "./photos/Spain 2023/eric-qiu-gallery-07.min.jpg",
+      "path": "./photos/Spain/eric-qiu-gallery-07.jpg",
+      "compressed_path": "./photos/Spain/eric-qiu-gallery-07.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Spain 2023/eric-qiu-gallery-07.placeholder.jpg"
+      "placeholder_path": "./photos/Spain/eric-qiu-gallery-07.placeholder.jpg"
     },
     {
       "width": 5178,
       "height": 6904,
-      "path": "./photos/Spain 2023/eric-qiu-gallery-06.jpg",
-      "compressed_path": "./photos/Spain 2023/eric-qiu-gallery-06.min.jpg",
+      "path": "./photos/Spain/eric-qiu-gallery-06.jpg",
+      "compressed_path": "./photos/Spain/eric-qiu-gallery-06.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Spain 2023/eric-qiu-gallery-06.placeholder.jpg"
+      "placeholder_path": "./photos/Spain/eric-qiu-gallery-06.placeholder.jpg"
     },
     {
       "width": 3773,
       "height": 5660,
-      "path": "./photos/Spain 2023/eric-qiu-gallery-12.jpg",
-      "compressed_path": "./photos/Spain 2023/eric-qiu-gallery-12.min.jpg",
+      "path": "./photos/Spain/eric-qiu-gallery-12.jpg",
+      "compressed_path": "./photos/Spain/eric-qiu-gallery-12.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Spain 2023/eric-qiu-gallery-12.placeholder.jpg"
+      "placeholder_path": "./photos/Spain/eric-qiu-gallery-12.placeholder.jpg"
     },
     {
       "width": 4488,
       "height": 7979,
-      "path": "./photos/Spain 2023/eric-qiu-gallery-04.jpg",
-      "compressed_path": "./photos/Spain 2023/eric-qiu-gallery-04.min.jpg",
+      "path": "./photos/Spain/eric-qiu-gallery-04.jpg",
+      "compressed_path": "./photos/Spain/eric-qiu-gallery-04.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Spain 2023/eric-qiu-gallery-04.placeholder.jpg"
+      "placeholder_path": "./photos/Spain/eric-qiu-gallery-04.placeholder.jpg"
     },
     {
       "width": 6000,
       "height": 4000,
-      "path": "./photos/Spain 2023/eric-qiu-gallery-10.jpg",
-      "compressed_path": "./photos/Spain 2023/eric-qiu-gallery-10.min.jpg",
+      "path": "./photos/Spain/eric-qiu-gallery-10.jpg",
+      "compressed_path": "./photos/Spain/eric-qiu-gallery-10.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Spain 2023/eric-qiu-gallery-10.placeholder.jpg"
+      "placeholder_path": "./photos/Spain/eric-qiu-gallery-10.placeholder.jpg"
     },
     {
       "width": 3874,
       "height": 5811,
-      "path": "./photos/Spain 2023/eric-qiu-gallery-11.jpg",
-      "compressed_path": "./photos/Spain 2023/eric-qiu-gallery-11.min.jpg",
+      "path": "./photos/Spain/eric-qiu-gallery-11.jpg",
+      "compressed_path": "./photos/Spain/eric-qiu-gallery-11.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Spain 2023/eric-qiu-gallery-11.placeholder.jpg"
+      "placeholder_path": "./photos/Spain/eric-qiu-gallery-11.placeholder.jpg"
     },
     {
       "width": 6048,
       "height": 8064,
-      "path": "./photos/Spain 2023/eric-qiu-gallery-05.jpg",
-      "compressed_path": "./photos/Spain 2023/eric-qiu-gallery-05.min.jpg",
+      "path": "./photos/Spain/eric-qiu-gallery-05.jpg",
+      "compressed_path": "./photos/Spain/eric-qiu-gallery-05.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Spain 2023/eric-qiu-gallery-05.placeholder.jpg"
+      "placeholder_path": "./photos/Spain/eric-qiu-gallery-05.placeholder.jpg"
     },
     {
       "width": 3024,
       "height": 4032,
-      "path": "./photos/Spain 2023/eric-qiu-gallery-20.jpg",
-      "compressed_path": "./photos/Spain 2023/eric-qiu-gallery-20.min.jpg",
+      "path": "./photos/Spain/eric-qiu-gallery-20.jpg",
+      "compressed_path": "./photos/Spain/eric-qiu-gallery-20.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Spain 2023/eric-qiu-gallery-20.placeholder.jpg"
+      "placeholder_path": "./photos/Spain/eric-qiu-gallery-20.placeholder.jpg"
     },
     {
       "width": 6000,
       "height": 4000,
-      "path": "./photos/Spain 2023/eric-qiu-gallery-08.jpg",
-      "compressed_path": "./photos/Spain 2023/eric-qiu-gallery-08.min.jpg",
+      "path": "./photos/Spain/eric-qiu-gallery-08.jpg",
+      "compressed_path": "./photos/Spain/eric-qiu-gallery-08.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Spain 2023/eric-qiu-gallery-08.placeholder.jpg"
+      "placeholder_path": "./photos/Spain/eric-qiu-gallery-08.placeholder.jpg"
     },
     {
       "width": 3984,
       "height": 5976,
-      "path": "./photos/Spain 2023/eric-qiu-gallery-09.jpg",
-      "compressed_path": "./photos/Spain 2023/eric-qiu-gallery-09.min.jpg",
+      "path": "./photos/Spain/eric-qiu-gallery-09.jpg",
+      "compressed_path": "./photos/Spain/eric-qiu-gallery-09.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Spain 2023/eric-qiu-gallery-09.placeholder.jpg"
+      "placeholder_path": "./photos/Spain/eric-qiu-gallery-09.placeholder.jpg"
     },
     {
       "width": 8064,
       "height": 6048,
-      "path": "./photos/Spain 2023/eric-qiu-gallery-21.jpg",
-      "compressed_path": "./photos/Spain 2023/eric-qiu-gallery-21.min.jpg",
+      "path": "./photos/Spain/eric-qiu-gallery-21.jpg",
+      "compressed_path": "./photos/Spain/eric-qiu-gallery-21.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Spain 2023/eric-qiu-gallery-21.placeholder.jpg"
+      "placeholder_path": "./photos/Spain/eric-qiu-gallery-21.placeholder.jpg"
     },
     {
       "width": 8064,
       "height": 6048,
-      "path": "./photos/Spain 2023/eric-qiu-gallery-23.jpg",
-      "compressed_path": "./photos/Spain 2023/eric-qiu-gallery-23.min.jpg",
+      "path": "./photos/Spain/eric-qiu-gallery-23.jpg",
+      "compressed_path": "./photos/Spain/eric-qiu-gallery-23.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Spain 2023/eric-qiu-gallery-23.placeholder.jpg"
+      "placeholder_path": "./photos/Spain/eric-qiu-gallery-23.placeholder.jpg"
     },
     {
       "width": 1924,
       "height": 2886,
-      "path": "./photos/Spain 2023/eric-qiu-gallery-22.jpg",
-      "compressed_path": "./photos/Spain 2023/eric-qiu-gallery-22.min.jpg",
+      "path": "./photos/Spain/eric-qiu-gallery-22.jpg",
+      "compressed_path": "./photos/Spain/eric-qiu-gallery-22.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Spain 2023/eric-qiu-gallery-22.placeholder.jpg"
+      "placeholder_path": "./photos/Spain/eric-qiu-gallery-22.placeholder.jpg"
     },
     {
       "width": 3024,
       "height": 4032,
-      "path": "./photos/Spain 2023/eric-qiu-gallery-26.jpg",
-      "compressed_path": "./photos/Spain 2023/eric-qiu-gallery-26.min.jpg",
+      "path": "./photos/Spain/eric-qiu-gallery-26.jpg",
+      "compressed_path": "./photos/Spain/eric-qiu-gallery-26.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Spain 2023/eric-qiu-gallery-26.placeholder.jpg"
+      "placeholder_path": "./photos/Spain/eric-qiu-gallery-26.placeholder.jpg"
     },
     {
       "width": 3795,
       "height": 5693,
-      "path": "./photos/Spain 2023/eric-qiu-gallery-19.jpg",
-      "compressed_path": "./photos/Spain 2023/eric-qiu-gallery-19.min.jpg",
+      "path": "./photos/Spain/eric-qiu-gallery-19.jpg",
+      "compressed_path": "./photos/Spain/eric-qiu-gallery-19.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Spain 2023/eric-qiu-gallery-19.placeholder.jpg"
+      "placeholder_path": "./photos/Spain/eric-qiu-gallery-19.placeholder.jpg"
     },
     {
       "width": 6048,
       "height": 8064,
-      "path": "./photos/Spain 2023/eric-qiu-gallery-25.jpg",
-      "compressed_path": "./photos/Spain 2023/eric-qiu-gallery-25.min.jpg",
+      "path": "./photos/Spain/eric-qiu-gallery-25.jpg",
+      "compressed_path": "./photos/Spain/eric-qiu-gallery-25.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Spain 2023/eric-qiu-gallery-25.placeholder.jpg"
+      "placeholder_path": "./photos/Spain/eric-qiu-gallery-25.placeholder.jpg"
     },
     {
       "width": 3024,
       "height": 4032,
-      "path": "./photos/Spain 2023/eric-qiu-gallery-24.jpg",
-      "compressed_path": "./photos/Spain 2023/eric-qiu-gallery-24.min.jpg",
+      "path": "./photos/Spain/eric-qiu-gallery-24.jpg",
+      "compressed_path": "./photos/Spain/eric-qiu-gallery-24.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Spain 2023/eric-qiu-gallery-24.placeholder.jpg"
+      "placeholder_path": "./photos/Spain/eric-qiu-gallery-24.placeholder.jpg"
     },
     {
       "width": 3509,
       "height": 5263,
-      "path": "./photos/Spain 2023/eric-qiu-gallery-18.jpg",
-      "compressed_path": "./photos/Spain 2023/eric-qiu-gallery-18.min.jpg",
+      "path": "./photos/Spain/eric-qiu-gallery-18.jpg",
+      "compressed_path": "./photos/Spain/eric-qiu-gallery-18.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Spain 2023/eric-qiu-gallery-18.placeholder.jpg"
+      "placeholder_path": "./photos/Spain/eric-qiu-gallery-18.placeholder.jpg"
+    }
+  ],
+  "Asia": [
+    {
+      "width": 6048,
+      "height": 8064,
+      "path": "./photos/Asia/eric-qiu-gallery-57.jpg",
+      "compressed_path": "./photos/Asia/eric-qiu-gallery-57.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Asia/eric-qiu-gallery-57.placeholder.jpg"
+    },
+    {
+      "width": 8064,
+      "height": 6048,
+      "path": "./photos/Asia/eric-qiu-gallery-56.jpg",
+      "compressed_path": "./photos/Asia/eric-qiu-gallery-56.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Asia/eric-qiu-gallery-56.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Asia/eric-qiu-gallery-54.jpg",
+      "compressed_path": "./photos/Asia/eric-qiu-gallery-54.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Asia/eric-qiu-gallery-54.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Asia/eric-qiu-gallery-55.jpg",
+      "compressed_path": "./photos/Asia/eric-qiu-gallery-55.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Asia/eric-qiu-gallery-55.placeholder.jpg"
+    },
+    {
+      "width": 3941,
+      "height": 5912,
+      "path": "./photos/Asia/eric-qiu-gallery-51.jpg",
+      "compressed_path": "./photos/Asia/eric-qiu-gallery-51.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Asia/eric-qiu-gallery-51.placeholder.jpg"
+    },
+    {
+      "width": 7485,
+      "height": 11227,
+      "path": "./photos/Asia/eric-qiu-gallery-52.jpg",
+      "compressed_path": "./photos/Asia/eric-qiu-gallery-52.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Asia/eric-qiu-gallery-52.placeholder.jpg"
+    }
+  ],
+  "London": [
+    {
+      "width": 3134,
+      "height": 4701,
+      "path": "./photos/London/eric-qiu-gallery-29.jpg",
+      "compressed_path": "./photos/London/eric-qiu-gallery-29.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/London/eric-qiu-gallery-29.placeholder.jpg"
+    },
+    {
+      "width": 3020,
+      "height": 4027,
+      "path": "./photos/London/eric-qiu-gallery-28.jpg",
+      "compressed_path": "./photos/London/eric-qiu-gallery-28.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/London/eric-qiu-gallery-28.placeholder.jpg"
+    },
+    {
+      "width": 2932,
+      "height": 3910,
+      "path": "./photos/London/eric-qiu-gallery-27.jpg",
+      "compressed_path": "./photos/London/eric-qiu-gallery-27.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/London/eric-qiu-gallery-27.placeholder.jpg"
+    },
+    {
+      "width": 3007,
+      "height": 4008,
+      "path": "./photos/London/eric-qiu-gallery-31.jpg",
+      "compressed_path": "./photos/London/eric-qiu-gallery-31.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/London/eric-qiu-gallery-31.placeholder.jpg"
+    },
+    {
+      "width": 3218,
+      "height": 4827,
+      "path": "./photos/London/eric-qiu-gallery-30.jpg",
+      "compressed_path": "./photos/London/eric-qiu-gallery-30.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/London/eric-qiu-gallery-30.placeholder.jpg"
     }
   ],
   "New York City": [
@@ -449,54 +377,126 @@
       "placeholder_path": "./photos/New York City/eric-qiu-gallery-50.placeholder.jpg"
     }
   ],
-  "Asia 2019": [
+  "Iceland": [
     {
-      "width": 6048,
-      "height": 8064,
-      "path": "./photos/Asia 2019/eric-qiu-gallery-57.jpg",
-      "compressed_path": "./photos/Asia 2019/eric-qiu-gallery-57.min.jpg",
+      "width": 3173,
+      "height": 4760,
+      "path": "./photos/Iceland/eric-qiu-gallery-38.jpg",
+      "compressed_path": "./photos/Iceland/eric-qiu-gallery-38.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Asia 2019/eric-qiu-gallery-57.placeholder.jpg"
+      "placeholder_path": "./photos/Iceland/eric-qiu-gallery-38.placeholder.jpg"
     },
     {
-      "width": 8064,
-      "height": 6048,
-      "path": "./photos/Asia 2019/eric-qiu-gallery-56.jpg",
-      "compressed_path": "./photos/Asia 2019/eric-qiu-gallery-56.min.jpg",
+      "width": 4000,
+      "height": 6000,
+      "path": "./photos/Iceland/eric-qiu-gallery-39.jpg",
+      "compressed_path": "./photos/Iceland/eric-qiu-gallery-39.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Asia 2019/eric-qiu-gallery-56.placeholder.jpg"
+      "placeholder_path": "./photos/Iceland/eric-qiu-gallery-39.placeholder.jpg"
+    },
+    {
+      "width": 4000,
+      "height": 6000,
+      "path": "./photos/Iceland/eric-qiu-gallery-43.jpg",
+      "compressed_path": "./photos/Iceland/eric-qiu-gallery-43.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Iceland/eric-qiu-gallery-43.placeholder.jpg"
+    },
+    {
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/Iceland/eric-qiu-gallery-42.jpg",
+      "compressed_path": "./photos/Iceland/eric-qiu-gallery-42.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Iceland/eric-qiu-gallery-42.placeholder.jpg"
+    },
+    {
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/Iceland/eric-qiu-gallery-40.jpg",
+      "compressed_path": "./photos/Iceland/eric-qiu-gallery-40.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Iceland/eric-qiu-gallery-40.placeholder.jpg"
+    },
+    {
+      "width": 3672,
+      "height": 5508,
+      "path": "./photos/Iceland/eric-qiu-gallery-41.jpg",
+      "compressed_path": "./photos/Iceland/eric-qiu-gallery-41.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Iceland/eric-qiu-gallery-41.placeholder.jpg"
+    },
+    {
+      "width": 3086,
+      "height": 4629,
+      "path": "./photos/Iceland/eric-qiu-gallery-45.jpg",
+      "compressed_path": "./photos/Iceland/eric-qiu-gallery-45.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Iceland/eric-qiu-gallery-45.placeholder.jpg"
+    },
+    {
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/Iceland/eric-qiu-gallery-44.jpg",
+      "compressed_path": "./photos/Iceland/eric-qiu-gallery-44.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Iceland/eric-qiu-gallery-44.placeholder.jpg"
+    },
+    {
+      "width": 4000,
+      "height": 3091,
+      "path": "./photos/Iceland/eric-qiu-gallery-46.jpg",
+      "compressed_path": "./photos/Iceland/eric-qiu-gallery-46.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Iceland/eric-qiu-gallery-46.placeholder.jpg"
+    },
+    {
+      "width": 4241,
+      "height": 5655,
+      "path": "./photos/Iceland/eric-qiu-gallery-34.jpg",
+      "compressed_path": "./photos/Iceland/eric-qiu-gallery-34.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Iceland/eric-qiu-gallery-34.placeholder.jpg"
     },
     {
       "width": 3024,
       "height": 4032,
-      "path": "./photos/Asia 2019/eric-qiu-gallery-54.jpg",
-      "compressed_path": "./photos/Asia 2019/eric-qiu-gallery-54.min.jpg",
+      "path": "./photos/Iceland/eric-qiu-gallery-35.jpg",
+      "compressed_path": "./photos/Iceland/eric-qiu-gallery-35.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Asia 2019/eric-qiu-gallery-54.placeholder.jpg"
+      "placeholder_path": "./photos/Iceland/eric-qiu-gallery-35.placeholder.jpg"
     },
     {
-      "width": 3024,
-      "height": 4032,
-      "path": "./photos/Asia 2019/eric-qiu-gallery-55.jpg",
-      "compressed_path": "./photos/Asia 2019/eric-qiu-gallery-55.min.jpg",
+      "width": 5931,
+      "height": 8897,
+      "path": "./photos/Iceland/eric-qiu-gallery-37.jpg",
+      "compressed_path": "./photos/Iceland/eric-qiu-gallery-37.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Asia 2019/eric-qiu-gallery-55.placeholder.jpg"
+      "placeholder_path": "./photos/Iceland/eric-qiu-gallery-37.placeholder.jpg"
     },
     {
-      "width": 3941,
-      "height": 5912,
-      "path": "./photos/Asia 2019/eric-qiu-gallery-51.jpg",
-      "compressed_path": "./photos/Asia 2019/eric-qiu-gallery-51.min.jpg",
+      "width": 2709,
+      "height": 2032,
+      "path": "./photos/Iceland/eric-qiu-gallery-36.jpg",
+      "compressed_path": "./photos/Iceland/eric-qiu-gallery-36.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Asia 2019/eric-qiu-gallery-51.placeholder.jpg"
+      "placeholder_path": "./photos/Iceland/eric-qiu-gallery-36.placeholder.jpg"
     },
     {
-      "width": 7485,
-      "height": 11227,
-      "path": "./photos/Asia 2019/eric-qiu-gallery-52.jpg",
-      "compressed_path": "./photos/Asia 2019/eric-qiu-gallery-52.min.jpg",
+      "width": 3262,
+      "height": 4893,
+      "path": "./photos/Iceland/eric-qiu-gallery-32.jpg",
+      "compressed_path": "./photos/Iceland/eric-qiu-gallery-32.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Asia 2019/eric-qiu-gallery-52.placeholder.jpg"
+      "placeholder_path": "./photos/Iceland/eric-qiu-gallery-32.placeholder.jpg"
+    },
+    {
+      "width": 3969,
+      "height": 2646,
+      "path": "./photos/Iceland/eric-qiu-gallery-33.jpg",
+      "compressed_path": "./photos/Iceland/eric-qiu-gallery-33.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Iceland/eric-qiu-gallery-33.placeholder.jpg"
     }
   ]
 }
