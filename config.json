@@ -195,54 +195,22 @@
       "placeholder_path": "./photos/Spain/eric-qiu-gallery-24.placeholder.jpg"
     }
   ],
-  "Asia": [
-    {
-      "width": 6048,
-      "height": 8064,
-      "path": "./photos/Asia/eric-qiu-gallery-57.jpg",
-      "compressed_path": "./photos/Asia/eric-qiu-gallery-57.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Asia/eric-qiu-gallery-57.placeholder.jpg"
-    },
-    {
-      "width": 8064,
-      "height": 6048,
-      "path": "./photos/Asia/eric-qiu-gallery-56.jpg",
-      "compressed_path": "./photos/Asia/eric-qiu-gallery-56.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Asia/eric-qiu-gallery-56.placeholder.jpg"
-    },
-    {
-      "width": 3024,
-      "height": 4032,
-      "path": "./photos/Asia/eric-qiu-gallery-54.jpg",
-      "compressed_path": "./photos/Asia/eric-qiu-gallery-54.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Asia/eric-qiu-gallery-54.placeholder.jpg"
-    },
-    {
-      "width": 3024,
-      "height": 4032,
-      "path": "./photos/Asia/eric-qiu-gallery-55.jpg",
-      "compressed_path": "./photos/Asia/eric-qiu-gallery-55.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Asia/eric-qiu-gallery-55.placeholder.jpg"
-    },
+  "Japan": [
     {
       "width": 3941,
       "height": 5912,
-      "path": "./photos/Asia/eric-qiu-gallery-51.jpg",
-      "compressed_path": "./photos/Asia/eric-qiu-gallery-51.min.jpg",
+      "path": "./photos/Japan/eric-qiu-gallery-51.jpg",
+      "compressed_path": "./photos/Japan/eric-qiu-gallery-51.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Asia/eric-qiu-gallery-51.placeholder.jpg"
+      "placeholder_path": "./photos/Japan/eric-qiu-gallery-51.placeholder.jpg"
     },
     {
       "width": 7485,
       "height": 11227,
-      "path": "./photos/Asia/eric-qiu-gallery-52.jpg",
-      "compressed_path": "./photos/Asia/eric-qiu-gallery-52.min.jpg",
+      "path": "./photos/Japan/eric-qiu-gallery-52.jpg",
+      "compressed_path": "./photos/Japan/eric-qiu-gallery-52.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Asia/eric-qiu-gallery-52.placeholder.jpg"
+      "placeholder_path": "./photos/Japan/eric-qiu-gallery-52.placeholder.jpg"
     }
   ],
   "London": [
@@ -287,6 +255,32 @@
       "placeholder_path": "./photos/London/eric-qiu-gallery-30.placeholder.jpg"
     }
   ],
+  "Vietnam": [
+    {
+      "width": 6048,
+      "height": 8064,
+      "path": "./photos/Vietnam/eric-qiu-gallery-57.jpg",
+      "compressed_path": "./photos/Vietnam/eric-qiu-gallery-57.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Vietnam/eric-qiu-gallery-57.placeholder.jpg"
+    },
+    {
+      "width": 8064,
+      "height": 6048,
+      "path": "./photos/Vietnam/eric-qiu-gallery-56.jpg",
+      "compressed_path": "./photos/Vietnam/eric-qiu-gallery-56.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Vietnam/eric-qiu-gallery-56.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Vietnam/eric-qiu-gallery-55.jpg",
+      "compressed_path": "./photos/Vietnam/eric-qiu-gallery-55.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Vietnam/eric-qiu-gallery-55.placeholder.jpg"
+    }
+  ],
   "New York City": [
     {
       "width": 6000,
@@ -303,14 +297,6 @@
       "compressed_path": "./photos/New York City/eric-qiu-gallery-48.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/New York City/eric-qiu-gallery-48.placeholder.jpg"
-    },
-    {
-      "width": 6000,
-      "height": 4000,
-      "path": "./photos/New York City/eric-qiu-gallery-50.jpg",
-      "compressed_path": "./photos/New York City/eric-qiu-gallery-50.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/New York City/eric-qiu-gallery-50.placeholder.jpg"
     }
   ],
   "Iceland": [
